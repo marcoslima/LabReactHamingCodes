@@ -1,0 +1,15 @@
+.container {
+  border: 4px solid gray;
+  flex-shrink: 1;
+  margin: 10px;
+}
+
+.data {
+  font-size: 40px;
+  height: inherit;
+}
+.idx {
+  font-size: 12px;
+  text-align: right;
+  /* border: 1px solid red; */
+}

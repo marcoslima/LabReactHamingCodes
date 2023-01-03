@@ -1,0 +1,15 @@
+.cell {
+  background-color: black;
+  color: white;
+  width: 3em;
+  height: 4em;
+  margin-top: 0.25em;
+  flex-grow: 1;
+  cursor: pointer;
+}
+.cellFrame {
+  background-color: black;
+  border: 1px solid gray;
+  padding: 0.1em;
+  flex-grow: 1;
+}

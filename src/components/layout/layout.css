@@ -1,0 +1,19 @@
+.VLayout {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  height: inherit;
+  /* border: 2px solid blue; */
+  /* margin: 1em; */
+}
+.HLayout {
+  display: flex;
+  flex-direction: row;
+  flex-grow: 1;
+  /* border: 1px solid yellow; */
+  /* margin: 1em; */
+}
+.spacer {
+  flex-grow: 1e10;
+  /* border: 1px solid green; */
+}
